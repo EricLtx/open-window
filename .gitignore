@@ -1,0 +1,13 @@
+﻿# Framing and feasibility documents: private, local only
+[0-9][0-9]_*/
+
+# Build output and dependencies
+target/
+node_modules/
+dist/
+.venv/
+
+# Local secrets and state
+.env
+.env.*
+**/.state/

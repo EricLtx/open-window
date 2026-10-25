@@ -6,7 +6,7 @@ An on-chain repo contract on Stellar. Holders of tokenized money market funds bo
 
 ## Layout
 
-Code is added here as it is written. Framing documents live in numbered local folders (`01_Strategie` to `11_...`) that are ignored by git.
+Code is added here as it is written. Framing documents live in numbered local folders (`01_Strategie` to `12_ConsultingAndSoftwareToolkit`) that are ignored by git.
 
 ## License
 

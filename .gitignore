@@ -11,3 +11,6 @@ dist/
 .env
 .env.*
 **/.state/
+
+# Third-party reference material
+12_ConsultingAndSoftwareToolkit/
